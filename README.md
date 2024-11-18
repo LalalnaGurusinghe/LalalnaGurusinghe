@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I’m an undergraduate student at the **University
 
 ## 🛠 Technologies & Tools
 
-- **Languages**: Java, JavaScript, HTML, CSS, SQL
+- **Languages**: Java, C, Python, JavaScript, HTML, CSS, SQL
 - **Frameworks**: React, Node.js, Express
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, GitHub, VSCode, IntelliJ IDEA
@@ -37,13 +37,13 @@ Welcome to my GitHub profile! I’m an undergraduate student at the **University
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LalalnaGurusinghe&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/lalana-gurusinghe-200bbb277/))
+- [Twitter]([https://twitter.com/yourprofile](https://twitter.com/LGurusingh54853))
+
 
 ## 💬 Let’s Collaborate!
 
