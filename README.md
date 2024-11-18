@@ -1,7 +1,7 @@
 # 👋 Hello! I'm LALANA
 
 Welcome to my GitHub profile! I’m an undergraduate student at the **University of Moratuwa** with a passion for **Java Development** and **Web Development**. I am currently exploring a variety of programming languages and always looking to learn new technologies.
-![Coding GIF]([https://i.imgur.com/yourgif.gif](https://imgur.com/a/oHfnuxE))
+![Alt text]("https://www.mytaskpanel.com/java-enterprise-solutions/")
 
 
 
