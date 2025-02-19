@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I’m an undergraduate student at the **University
 ## 🛠 Technologies & Tools
 
 - **Languages**: Java, C, Python, JavaScript, HTML, CSS, SQL
-- **Frameworks**: React, Node.js, Express
+- **Frameworks**: React, Spring Boot ,  Node.js, Express
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, GitHub, VSCode, IntelliJ IDEA
 - **Cloud & Hosting**: Firebase, Netlify
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I’m an undergraduate student at the **University
 
 - **Problem Solving**: Ability to break down problems and create effective solutions.
 - **Collaborative Projects**: Worked in teams to develop software solutions.
-- **Web Development**: Building interactive web applications from scratch.
+- **Web Development & Backend Development**: Building interactive web applications from scratch.
 
 ## 📚 Currently Learning
 
