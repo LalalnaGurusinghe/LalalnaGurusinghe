@@ -1,6 +1,7 @@
 # 👋 Hello! I'm LALANA
 
 Welcome to my GitHub profile! I’m an undergraduate student at the **University of Moratuwa** with a passion for **Java Development** and **Web Development**. I am currently exploring a variety of programming languages and always looking to learn new technologies.
+
 ![Consulting Blog Image](https://www.mytaskpanel.com/wp-content/uploads/2023/04/consulting-blog-09.webp)
 
 
