@@ -1,6 +1,6 @@
 # 👋 Hello! I'm LALANA
 
-Welcome to my GitHub profile! I’m an undergraduate student at the **University of Moratuwa** with a passion for **Java Development** and **Web Development**. I am currently exploring a variety of programming languages and always looking to learn new technologies.
+Welcome to my GitHub profile! I'm an undergraduate student at the **University of Moratuwa** with a passion for **Java Development** and **Web Development**. I am currently exploring a variety of programming languages and always looking to learn new technologies.
 
 ![Consulting Blog Image](https://www.mytaskpanel.com/wp-content/uploads/2023/04/consulting-blog-09.webp)
 
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m an undergraduate student at the **University
 - 🌐 Enthusiast of **Web Development** (HTML, CSS, JavaScript, React)
 - 🔧 Constantly experimenting with **Programming Languages** and **Projects**
 
-## 💡 What I’m Working On
+## 💡 What I'm Working On
 
 - **Building applications using Java**, exploring frameworks like Spring Boot, Hibernate, and more.
 - **Developing responsive websites** with modern web technologies (HTML, CSS, JavaScript, React).
@@ -28,13 +28,13 @@ Welcome to my GitHub profile! I’m an undergraduate student at the **University
 - **Tools**: Git, GitHub, VSCode, IntelliJ IDEA
 - **Cloud & Hosting**: Firebase, Netlify
 
-## 🌟 What I’ve Learned
+## 🌟 What I've Learned
 
 - **Problem Solving**: Ability to break down problems and create effective solutions.
 - **Collaborative Projects**: Worked in teams to develop software solutions.
 - **Web Development & Backend Development**: Building interactive web applications from scratch.
 
-## 📚 Currently Learning
+## �� Currently Learning
 
 - Advanced **Java** concepts and frameworks like Spring Boot
 - **RESTful APIs** and integrating them into web applications
@@ -44,14 +44,18 @@ Welcome to my GitHub profile! I’m an undergraduate student at the **University
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LalalnaGurusinghe&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-## 🤝 Connect with Me
+## �� Contribution Snake
+
+![Snake animation](https://github.com/LalalnaGurusinghe/LalalnaGurusinghe/blob/output/github-contribution-grid-snake.svg)
+
+## �� Connect with Me
 
 - [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/lalana-gurusinghe-200bbb277/))
 - [Twitter]([https://twitter.com/yourprofile](https://twitter.com/LGurusingh54853))
 
 
-## 💬 Let’s Collaborate!
+## 💬 Let's Collaborate!
 
-I’m always open to collaborating on projects, learning new things, and contributing to open-source communities! Feel free to open an issue or contact me directly.
+I'm always open to collaborating on projects, learning new things, and contributing to open-source communities! Feel free to open an issue or contact me directly.
 
 Thanks for visiting my profile! 👨‍💻
